@@ -14,4 +14,3 @@ ____________________________________________
 ____________________________________________
 ![Sarawut github stats](https://github-readme-stats.vercel.app/api?username=sarawut-pcru&count_private=true)
 
-![](https://img.shields.io/github/stars/sarawut-pcru/README.md.svg) ![](https://img.shields.io/github/forks/sarawut-pcru/README.md.svg) ![](https://img.shields.io/github/tag/sarawut-pcru/README.md.svg) ![](https://img.shields.io/github/release/sarawut-pcru/README.md.svg) ![](https://img.shields.io/github/issues/sarawut-pcru/README.md.svg) ![](https://img.shields.io/bower/sarawut-pcru/README.md.svg)
