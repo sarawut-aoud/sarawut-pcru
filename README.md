@@ -12,6 +12,3 @@ ____________________________________________
 - Line : Sarawuttar2542
 - Email : u.sarawut586@gmail.com
 
-
-
-git status
