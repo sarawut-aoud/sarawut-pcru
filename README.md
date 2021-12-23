@@ -13,3 +13,5 @@ ____________________________________________
 - Email : u.sarawut586@gmail.com
 ____________________________________________
 ![Sarawut github stats](https://github-readme-stats.vercel.app/api?username=sarawut-pcru&count_private=true)
+
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
