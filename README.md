@@ -12,4 +12,4 @@ ____________________________________________
 - Line : Sarawuttar2542
 - Email : u.sarawut586@gmail.com
 ____________________________________________
-- ![Sarawut github stats](https://github-readme-stats.vercel.app/api?username=sarawut-pcru&count_private=true)
+![Sarawut github stats](https://github-readme-stats.vercel.app/api?username=sarawut-pcru&count_private=true)
