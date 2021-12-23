@@ -14,4 +14,4 @@ ____________________________________________
 ____________________________________________
 ![Sarawut github stats](https://github-readme-stats.vercel.app/api?username=sarawut-pcru&count_private=true)
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+![](https://img.shields.io/github/stars/sarawut-pcru/editor.md.svg) ![](https://img.shields.io/github/forks/sarawut-pcru/editor.md.svg) ![](https://img.shields.io/github/tag/sarawut-pcru/editor.md.svg) ![](https://img.shields.io/github/release/sarawut-pcru/editor.md.svg) ![](https://img.shields.io/github/issues/sarawut-pcru/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
