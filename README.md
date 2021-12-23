@@ -11,5 +11,5 @@ ____________________________________________
 - FB : www.facebook.com/tar.sarawut42
 - Line : Sarawuttar2542
 - Email : u.sarawut586@gmail.com
-
-![Sarawut github stats](https://github-readme-stats.vercel.app/api?username=sarawut-pcru&count_private=true&count_public=true)
+____________________________________________
+<center>![Sarawut github stats](https://github-readme-stats.vercel.app/api?username=sarawut-pcru&count_private=true)</center>
