@@ -4,8 +4,8 @@ _____________________________________________
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning  PHP OOP
-- 🤔 I’m looking for help with PHP OOP , PDO
+- 🌱 I’m currently learning  PHP OOP , node.js , react
+- 🤔 I’m looking for help with PHP OOP , PDO , node.js , react
 ____________________________________________
 ### Contact 💻
 - FB : www.facebook.com/tar.sarawut42
