@@ -1,7 +1,6 @@
 <div align="center">
 <h1>Hi there 👋 : I'm TAR</h1>
-<B> NEVER STOP LEARNING </B>
- 
+
  Here are some ideas to get you started :
  
 </div>
