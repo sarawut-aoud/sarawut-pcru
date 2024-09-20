@@ -9,9 +9,7 @@
 __________________
 
 <div align="center">
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarawut-pcru&langs_count=8&layout=compact)![Sarawut githubstats](https://github-readme-stats.vercel.app/api?username=sarawut-pcru&count_private=true&show_icons=true&theme=algolia)
- 
+
 </div>
  
 __________________
